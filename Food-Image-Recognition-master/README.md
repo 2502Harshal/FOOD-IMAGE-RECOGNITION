@@ -109,13 +109,8 @@ Any contributions you make are **greatly appreciated**.
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<!-- CONTACT -->
-## Contact
-[![Linkedin](https://api.iconify.design/openmoji:linkedin.svg?width=40&height=40)](https://www.linkedin.com/in/maharsh-suryawala-05410312b/) 
 
-Maharsh Suryawala - [Portfolio](https://maharshsuryawala.github.io/maharshsuryawala/)
 
-Project Link: [https://github.com/MaharshSuryawala/Food-Image-Recognition](https://github.com/MaharshSuryawala/Food-Image-Recognition)
 
 ## References
 
